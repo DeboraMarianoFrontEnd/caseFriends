@@ -1,0 +1,213 @@
+main {
+	width: 100%;
+}
+
+.logo {
+	margin: 20px 139px;
+	height: 32px;
+	max-width: 100%;
+}
+
+.logo-imagem {
+	width: 194px;
+}
+
+.cor{
+	background: linear-gradient(90deg, #E91E23, #FABC2C, #1DB2E7);
+	height: 4px;
+}
+
+.banner {
+	height: 800px;
+	width: 100%;
+	max-width: 100%;
+}
+
+main {
+	max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.principal {
+	width: 1048px;
+	margin: 0 auto;
+}
+
+.titulo-principal {
+	text-align: center;
+	font-size: 48px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #2A2E43;
+	margin: 48px 0 0 0;
+	clear: left;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.cor2{
+	background: linear-gradient(90deg, #E91E23, #FABC2C, #1DB2E7);
+	height: 4px;
+	margin: 0 auto 48px auto;
+	width: 181px;
+}
+
+.personagens {
+	width: 500px;
+	height: 550px;
+	margin: 0px 48px 64px 0;
+	float: left;
+	max-width: 100%;
+}
+
+.principal p{
+	color: #78849E;
+	font-size: 21px;
+	line-height: 32px;
+	padding: 1em 0;
+	text-align: justify;
+	font-weight: 400;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.video {
+	
+	width: 1366px;
+	height: 600px;
+	margin: 51px auto;
+}
+
+.elenco {
+	width: 1088px;
+	margin: 0 auto;
+}
+
+.personagens-elenco {
+	width: 1366px;
+	margin: 0 auto;
+}
+
+.lista-elenco li {
+	display: inline-block;
+	text-align: center;
+	box-sizing: border-box;
+	margin: 0 16px 0 0;
+}
+
+.img-rachel {
+	width: 352px;
+	height: 400px;
+	border-radius: 15px;
+	margin: 0 0 16px 0;
+	background: url("rachel.png") no-repeat;
+	transition: 0.5s;
+	max-width: 100%;
+}
+
+.img-rachel:hover {
+	background: url("jennifer.png") no-repeat;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.3);
+}
+
+.img-ross {
+	width: 352px;
+	height: 400px;
+	border-radius: 15px;
+	margin: 0 0 16px 0;
+	background: url("ross.png") no-repeat;
+	transition: 0.5s;
+	max-width: 100%;
+}
+
+.img-ross:hover {
+	background: url("david.png");
+	box-shadow: 0 3px 6px rgba(0,0,0,0.3);
+}
+
+.img-monica {
+	width: 352px;
+	height: 400px;
+	border-radius: 15px;
+	margin: 0 0 16px 0;
+	background: url("monica.png") no-repeat;
+	transition: 0.5s;
+	max-width: 100%;
+}
+
+.img-monica:hover {
+	background: url("courteney.png") no-repeat;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.3);
+}
+
+.img-chandler {
+	width: 352px;
+	height: 400px;
+	border-radius: 15px;
+	margin: 0 0 16px 0;
+	background: url("Bing.png") no-repeat;
+	transition: 0.5s;
+	max-width: 100%;
+}
+
+.img-chandler:hover {
+	background: url("matthew.png") no-repeat;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.3);
+}
+
+.img-phoebe {
+	width: 352px;
+	height: 400px;
+	border-radius: 15px;
+	margin: 0 0 16px 0;
+	background: url("Phoebe.png") no-repeat;
+	transition: 0.5s;
+	max-width: 100%;
+}
+
+.img-phoebe:hover {
+	background: url("lisa.png") no-repeat;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.3);
+}
+
+.img-joey {
+	width: 352px;
+	height: 400px;
+	border-radius: 15px;
+	margin: 0 0 16px 0;
+	background: url("joey.png") no-repeat;
+	transition: 0.5s;
+	max-width: 100%;
+}
+
+.img-joey:hover {
+	background: url("matt.png") no-repeat;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.3);
+}
+
+.nome-personagens {
+	color: #454F63;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 28px;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0 0 4px 0;
+}
+
+.nome-atores {
+	color: #78849E;
+	font-size: 16px;
+	margin: 0 0 63px 0;
+	font-weight: 400;
+	font-family: 'Open Sans', sans-serif;
+}
+
+footer {
+	text-align: center;
+}
+
+.logo-rodapé {
+	width: 169px;
+	height: 28px;
+	margin: 20px 0;
+	max-width: 100%;
+}
